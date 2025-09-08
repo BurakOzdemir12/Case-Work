@@ -1,4 +1,4 @@
-import React, {useCallback, useState} from "react";
+import  {useCallback, useState} from "react";
 import {usePostMutations, usePosts} from "../hooks/usePosts.ts";
 import {useUserMutations, useUsers} from "../hooks/useUsers.ts";
 import PostEditDialog from "@/components/PostEditDialog.tsx";
