@@ -6,7 +6,7 @@
 </a>
 </p>
 
-<a  style="cursor: pointer"    href="https://yc-directory-gray-six.vercel.app/" >
+<a  style="cursor: pointer"    href="https://case-work-lyart.vercel.app/" >
 <p  align="center" style="font-size:large">🚀 Live Demo</p> 
 </a>
 
